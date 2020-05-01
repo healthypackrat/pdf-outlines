@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    pdf_outline_editor (0.1.2-java)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  pdf_outline_editor
+
+BUNDLED WITH
+   2.1.4

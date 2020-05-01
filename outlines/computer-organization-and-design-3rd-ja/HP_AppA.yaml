@@ -1,0 +1,24 @@
+- title: A.1 はじめに
+  page: 2
+- title: A.2 アセンブラ
+  page: 9
+- title: A.3 リンカ
+  page: 15
+- title: A.4 ロード
+  page: 17
+- title: A.5 主記憶領域の使用法
+  page: 18
+- title: A.6 手続き呼出し規約
+  page: 20
+- title: A.7 例外と割込み
+  page: 30
+- title: A.8 入力と出力
+  page: 34
+- title: A.9 SPIM
+  page: 37
+- title: A.10 MIPS R2000 のアセンブリ言語
+  page: 41
+- title: A.11 おわりに
+  page: 67
+- title: A.12 演習問題
+  page: 68
