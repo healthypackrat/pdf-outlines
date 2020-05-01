@@ -1,0 +1,31 @@
+---
+- title: Table of contents
+  page: 3
+- title: Preface
+  page: 7
+- title: Introduction
+  page: 8
+- title: Policy object
+  page: 10
+- title: Query object
+  page: 15
+- title: Service
+  page: 22
+- title: Observer
+  page: 25
+- title: Interactor
+  page: 29
+- title: Decorator
+  page: 33
+- title: Facade
+  page: 37
+- title: Form object
+  page: 39
+- title: Presenter
+  page: 43
+- title: Builder
+  page: 45
+- title: Value object
+  page: 49
+- title: Summary
+  page: 52
