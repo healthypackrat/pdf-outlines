@@ -1,0 +1,3 @@
+#!/bin/sh
+
+bundle exec pdf_outline_editor load "$@"
